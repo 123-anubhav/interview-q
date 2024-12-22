@@ -1,0 +1,135 @@
+OOPS
+------
+explain (encapsulation,inhertance,polymorphism,data abstraction)
+explain polymorphism 
+
+polymorphism
+--------------
+class Parent{
+public s(){Sysout("parent s");}
+}
+class Child extends Parent{
+public s(){Sysout("child s");}
+public p(){Sysout("child p");}
+}
+class Main{
+p.s.v.main(...){
+Parent o =new Child();
+o.p();
+}
+}
+
+what is JIT,JVM
+public static void main(STring...args){} expain why its public static void 
+can we override public static void main
+
+Interface
+----------
+what is
+Interface interf{
+int a;
+void s();
+}
+class a implements interf{
+a=7;
+void s(){}
+}
+output ?
+
+Interface interf12{
+void s();
+}
+Interface interf{
+void s();
+}
+
+class m implements interf1,interf2{
+//write code
+}
+
+Garbage Collector
+------------------
+what is
+how to execute garbage collector
+what is finalize 
+
+
+
+JVM
+----
+explain memory area
+what is ClassLoaderSystem
+
+String
+--------
+String vs String Buffer vs String builder
+
+why Strig is immutable and how to achieve that
+deep copy vs shadow copy
+equals vs ==
+String s="hi";
+String s1=new String("hi");
+Sysout(s.equals(s1)+(s==s1));
+
+String s="hi";
+s="bye";
+Sysout(s);
+
+class a{
+void s(String s){}
+void s(StringBuffer sb){}
+p.s.v.main(...){
+s(nul);
+}
+}
+what is String contant pool(SCP)
+
+Object clas
+-------------
+what are method 
+hashcode and equals
+finalize
+clone
+internal working of hashcode method
+
+serializable vs cloneable vs runnable
+
+Thread
+---------
+what is advantage
+how to implement 
+best way to implement thread
+life cycle method
+wait vs sleep
+what is deadlock how to resolve this
+what isthread synchronization
+what is thread lock
+write code for concurrent thread execution
+what is notify,notifyAll
+
+Exception
+----------
+how to handle it
+create custom exception
+expain try catch finally throw throws
+finally use for
+try with multiple resources
+try can have multiple catches
+throw vs throws
+types of expception
+FileNotFoundException is checked or unchecked
+what is error, checked and unchecked
+class Parent{
+publci s()throws Exception{Sysout("parent");}
+}
+class Child extends Parent{
+publci s()throws ArithmeticException{Sysout("child");}
+}
+class Main{
+p.s.v.main(...){
+Parent o =new Child();
+o.s();
+}
+}
+output?
+

@@ -1,0 +1,43 @@
+
+
+thread question
+-----------------
+1)
+concurrency i thred execute 2 class at same time
+Class A implements Runnable{
+}
+Class B implements{
+Class A implements Runnable{
+Anu Bhat4:13 PM
+//somthing
+}
+Class B implements Runnable{
+//something
+}
+class C{
+psvm(){
+}
+
+logical question
+-----------------
+2)
+input= 123456789;
+output=12345****;
+marshaling data like account number
+
+oracle
+-------
+3) join query without using inner join
+on keywork only use in inner join
+
+spring boot
+------------
+4) adapter in spring boot
+
+java 8
+---------
+5) groupby employee record using stream api in java 8
+stream api and lambda expression return type
+
+
+

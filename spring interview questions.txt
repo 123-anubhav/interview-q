@@ -1,0 +1,83 @@
+Spring Core
+------------
+what is IOC
+what is D.I.
+how many types of D.I.
+which approach is best in D.I. for inject
+what is and use @autowired, @qualiifer, @primary
+bean life cycle
+bean scope
+request and session differences
+IOC internal working like from create ioc to destroy object
+what is stereotype annotation and use
+@component, @service, @repository 
+difference in these annotation @component, @service, @repository 
+@configuration, @bean use for
+lazy loading vs early loading
+
+Spring boot
+------------
+what is runner types and use 
+spring vs boot
+advantage of boot
+how ioc internal works
+@springbootapplication explain
+
+Spring MVC And Rest
+--------------------
+differences @controller vs @restcontroller
+what is controller annotation.
+what is queryparam and pathvariable
+when use @pathvariable, @requestparam,@modelattribute
+@requestMapping
+what is viewresolver and how to configure
+explain mvc architecture
+what controller return in mvc architecture(return modelAndView object)
+//what is model and modelandview
+//when user hit the url what is happen in background explain
+when i have a form data how to store that data into db explain? (every person ask)
+how to create custom exception
+
+Spring Rest
+------------
+what is rest
+which is idempotant and which i not and why
+advantage of restcontroller
+restcontroller is combination of ?
+what is rest annotations get,post,put,delete what are they and which use for crud
+when use controller and when use restcontroller
+
+core java question forgot to write
+//what is serializable interface, marker interface and use, cloneable
+//clone() vs run()
+
+
+Spring Data JPA (mera project spring jdbc se tha to uske question pta h hmko iske kam hi puche jate the)
+---------------------------------------------------------------------------------------------------------
+what is jpa
+JPARepository vs CRUDRepository
+lazy loading vs eager loading
+what is connection pooling
+what is Entity class
+what is entity annotaion
+what is @id, @generatedvalue, @table, @column, @onetoone, @onetomany, @manytoone, @manytomany, @jointable, @joincolumn
+how to join two table from jpa
+scenario
+emp (id,name ) and salary(id,salary) how to join table
+what are and types of association/relationship in jpa and how to write code for that
+how to validate email,phonenumber in back-end (hibernate validator)
+what is sort and pagination concept in jpa
+//how to write custom query 
+
+if microservices then api gateway,Rest Api client
+
+tool
+-----
+git, jnuint, log4j, kafka, microservices, api gateway, eureka
+
+
+
+
+
+
+

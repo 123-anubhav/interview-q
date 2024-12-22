@@ -1,0 +1,37 @@
+Project Round
+---------------
+introduce yourself
+what are your project 
+breaf me in project
+in how many projects you have works on
+what is your role and responsibity in your project
+what difficulty you face in your project and how you tackle it
+how many modules are there in project explain 
+in what technology you have work on
+how to give rate yourself in project or java
+suppose project uses tech for back end like boot rest mvc jpa then interviewer ask for technology like rest,mvc,annotation you used in project what collection you use in your project and why
+what are rest annotation mvc annotation 
+restcontroller vs controller
+when you make our project as rest controller
+give real scenario 
+explain mvc architectre
+what is dispatcherServlet
+how many types of viewresolver
+do you know design pattern
+//forgot to write in core java(what is singleton class why it uses and SOLID principles)
+explain mvc/front controller design pattern
+what is Model/ModelAndView
+
+scenario
+---------
+suppose i have a form page how to store in db what is your approach to store in db
+go to controller for url mapping
+GET,POST,PUT,DELETE mapping mapped url then see the picture for travel the data from controller to store to db
+
+Hr round
+---------
+intro and project
+what is your strength
+what is your weakness
+what is your dream company
+you are able to manage pressure situation

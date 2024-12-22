@@ -1,0 +1,23 @@
+
+crud opreation query
+joining a query mostly select oreration
+
+i have 2 two table emp (id name) salary(id,salary) 
+scenario 1
+i want full record from emp jiski salary 5000 
+se jada h and software engineer h
+scenario 2
+hmko table data sirf manager k form me chahiye don't use  where clause
+
+what is procedure vs function
+truncate vs delete
+aggregate function
+joining  and types of type expain all
+what is cursor
+drop vs truncate
+what is view
+
+what is primary key foreign key condidate key
+
+
+sql vs nosql

@@ -1,0 +1,123 @@
+
+
+Programming Skills Test                                        Set A           
+Duration for this test is 2hours.
+There are no negative marks for wrong answers.
+Please give relevant explanation wherever asked
+Since there are no negative marks, we advise you to attempt all the questions and give your views.
+Section - A
+
+1). What would be the result of the following JavaScript statement?  
+
+      Math.floor(Math.random() *10);
+
+      A. random number between 1 and 10      B. random number between 1 and 100 
+      C. random number between 0 and 9        D. random number between 0 and 99
+
+2). write a java program for the Fibonacci series up to 15?
+ 
+3). Write a Java Program for Factorial of a number?
+4). What will be the Output of the below code?
+      public class A {
+    	public static void main(String[] args)
+    	{
+       		 int $_ = 5;
+    	}
+        }
+ 
+5). What will be the Output of the below code?
+      class Test {
+    public static void main (String [] args) {
+        for (int i = 0; true; i++) {
+            System.out.println("Hello");
+            break;
+        }
+    }
+}
+ 
+6). Write a java program for swapping two numbers without using a third variable?
+ 
+7). What will be the output of the following program and explain briefly?
+ 
+ 
+      public class MainClass {
+      public static void main (String [] args) {
+        String s = "ONE"+1+2+"TWO"+"THREE"+3+4+"FOUR"+"FIVE"+5; 
+        System.out.println(s);
+       }
+      }
+ 
+8). What is the output for the below code? 
+     public class Test { 
+     	public static void main(String... args) {
+     		Integer i = 34; 
+     		String str = (i<21)?"jan" :(i<56)?"feb":"march";
+     		System.out.println(str); 
+     	}
+     }
+     A. feb   B. jan   C. march   D. Compilation fails with an error at line 4
+
+9). Find the given number is present or not in an array without using an inbuilt function?
+
+10). Write a program to show the usage of try and catch?
+
+Section - B
+1). Write a java program to print duplicate characters from strings?
+ 
+2). Write a java program to reverse each word in the string without using inbuilt functions?
+ 
+3). Find all the pairs in an array whose sum is equal to a given number
+ 
+4). Remove all duplicates from an array without using inbuild functions?
+      
+5). Write a program to print the second largest number in an array?
+ 
+6). Write a Program to Merge two unsorted arrays and display one single sorted array?
+
+7). Write a java program to display the below pattern
+	           *
+         *   *
+       *       *
+      *           *
+    *********
+
+8). Write a java program to print all even and odd positions of the elements in an array
+
+9). Write a java program to display the below pattern
+     1
+   212
+  32123
+4321234
+ 32123
+   212
+     1
+
+10). What will be the Output of the below code:
+package main; 
+class Base {
+    public void Print()
+    {
+        System.out.println("Base");
+    }
+} 
+class Derived extends Base {
+    public void Print()
+    {
+        System.out.println("Derived");
+    }
+}
+class Main {
+    public static void DoPrint(Base o)
+    {
+        o.Print();
+    }
+    public static void main(String[] args)
+    {
+        Base x = new Base();
+        Base y = new Derived();
+        Derived z = new Derived();
+        DoPrint(x);
+        DoPrint(y);
+        DoPrint(z);
+    }
+}

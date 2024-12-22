@@ -1,0 +1,23 @@
+Adv java
+--------
+
+Jdbc
+----
+steps to create connection and retrieve data from db
+Statement vs prepareStatement vs cloneableStatement
+connection pooling
+
+Servlet
+--------
+hierarchy
+life cycle
+
+Jsp
+----
+implicit objects
+what is scriptlet, expression ,jstl
+request vs session
+include vs action
+what is bean and scope
+page vs application vs request vs session
+
