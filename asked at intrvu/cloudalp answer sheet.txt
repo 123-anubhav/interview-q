@@ -1,9 +1,7 @@
                                                            Set - A
 
 
-Name : ANUBHAV SRIVASTAVA
-E-mail : anubhav.aa2@gmail.com
-Mobile no : 7380938747
+
 Technologies :
  Java 8, servlet, jsp, jdbc, spring mvc, spring jdbc, oracle sql,html,css, java script,boot internal
 Answers :
